@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# font files
+*.ttf
+*.otf
+
+# output files
+*.h
+# except lcd_font.h
+!lcd_font.h
+
+# meld
+*.orig
+
+# Distribution / packaging
+build/
+
+# backup files
+*.bak
+
+# local folder
+local/
